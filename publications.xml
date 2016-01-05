@@ -1,0 +1,19 @@
+<?xml version="1.0" ?> 
+<rss version="2.0">
+
+<channel>
+
+<title>Publications</title>
+<link>http://flavors.me/mmicire</link>
+
+<item>
+<title>Chapters in Books</title>
+<description><p>Casper, J., Micire, M., Hyams, J., and Murphy, R., <a href="http://docs.google.com/viewer?url=http%3A%2F%2Fportal.acm.org%2Fft_gateway.cfm%3Fid%3D1502712%26type%3Dpdf%26coll%3DGUIDE%26dl%3DGUIDE%26CFID%3D79660834%26CFTOKEN%3D18321180" target="_blank">“A Case Study of How Mobile Robot Competitions Promote Research,”</a> RoboCup 2001 : Robot Soccer World Cup V, Springer, A. Birk, S. Coradeschi, S. Tadokoro, editors, 2002. <a href="http://scholar.google.com/scholar.bib?q=info:MWePtH0iGEgJ:scholar.google.com/&output=citation&hl=en&as_sdt=40000000&ct=citation&cd=3" target="_blank">[Bib]</a></p> 
+    <p>Murphy, R., Casper, J., and Micire, M., “Potential Tasks and Research Issues of Mobile Robots in RoboCup Rescue,” RoboCup-2000 : Robot Soccer World Cup IV, Springer Verlag, Berlain, Peter Stone, Tucker Balch, Gerhard Kraetszchmar, editors, 2001, pp. 339-344. </p>
+</description>
+<link>http://flavors.me/mmicire</link>
+</item>
+
+</channel>
+
+</rss>

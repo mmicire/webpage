@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+<channel>
+
+<title>About</title>
+<description>A little bit about this blog and me.</description>
+<link>http://DeusExMachina.org/mmicire</link>
+<atom:link href="http://www.cs.uml.edu/%7Emmicire/about.xml" rel="self" type="application/rss+xml" />
+
+<item>
+<title>Welcome </title>
+<description><![CDATA[<p>People have personal web sites for various reasons.  My site is simply a scrap book and aggregator.  If you have met me, you know that I have a lot of projects and I am rarely standing still.  This is my dumping grounds for my photos, movies, and thoughts.</p>  
+<p>Since I am far away from the place that I consider home, this also give a place where my family and friends can catch up with the “robot guy” and see what I am up to.  Hopefully I can capture a few of my crazy adventures on this digital canvas.</p> 
+<p>I am sure that you will find misspellings, broken links, and things that just don’t work.  Let me know if it is too annoying and I’ll try to fix it.</p> 
+<p>So, enjoy.  There are no agendas here.  Just a geek and some robots having fun.</p>]]>
+</description>
+<link>http://DeusExMachina.org/mmicire</link>
+</item>
+
+<item>
+<title>About Me</title>
+<description><![CDATA[<p>I am curious and I tend to break things. These two facts have been consistent from childhood to today. Fortunately, I was able to find a career that tends to reward these two qualities.</p> 
+
+<p>My background in computer science has largely been in the area of field robotics and artificial intelligence. After enrolling in graduate school at University of South Florida, I began work in the field of search and rescue robotics. This application domain allowed me to apply robotics to a truly humanitarian cause while maintaining my interest in technology. Over the course of several years, I achieved my Master’s degree in Computer Science, became a Nationally Certified Fire Fighter, and used robots for the first time in the search and rescue response at the World Trade Center disaster. I have since had the opportunity to use robots for search and rescue in several of our recent hurricanes disasters, including Hurricane Katrina. These two events allowed me to independently validate the use of robots for search and rescue. Their use not only enhances the survivability of victims, but also helps protect human and canine responders by giving them crucial information about the hazardous environment. Robotics is a field with great potential, but I felt that there was much more to be done.</p> 
+
+<p>In 2002, I started the company American Standard Robotics. My employees and I worked for over three years to become first company to sell robots to search and rescue professionals. In a small way, we succeeded in that goal. There are now several rescue groups that have their own robot gear. Unfortunately, the market for this equipment was not mature and needed to be developed considerably before it can sustain a growing business. As such, I refocused my efforts back into the laboratory.</p> 
+
+<p>I continued my work under the auspice of the University of Massachusetts, Lowell from January 2006 until October 2010.  I became extremely interested in multi-touch interfaces such as the Microsoft Surface and Mitsubishi Electric Research Laboratories’ DiamondTouch. Myself and my fellow researchers at the lab were able to successfully show that these interfaces have significant advantages over conventional user-interface paradigms and their use in rescue response command and control will benefit our first responders in future disasters.</p> 
+
+<p>After graduating with my PhD, I worked for NASA and Carnegie Mellon University in the Intelligent Robotics Group at the Ames Research Center in Silicon Valley, California. I was fortunate to lead a group that successfully sent Android cell phones on the last Space Shuttle mission to control robots on the International Space Station.  I am also the Engineering Manager for the SPHERES National Laboratory.  SPHERES is a testbed on the International Space Station that allows researchers from all over the world to test out their software algorithms on three small free-flying satellites that reside on the ISS permanently.  </p>
+
+<p>Today, I have the unique opportunity to work at the Defense Advanced Research Projects Agency (DARPA) as a Program Manager in robotics.  I am still breaking things, but now I get to help in the context of the government research projects.  I have worked on the fringe of DARPA as a researcher for over a decade, so it is very fun to finally help influence the future of robotics and how it will effect our society.</p>]]>
+</description>
+<link>http://DeusExMachina.org/mmicire</link>
+</item>
+
+<item>
+<title>Professional Bio</title>
+<description><![CDATA[<p>Dr. Mark Micire joined DARPA as a Program Manager in 2013. His interests include mobile and space robotics, multi-touch interfaces, search and rescue, human-robot interaction, and autonomy.</p>
+
+<p>Prior to joining DARPA, Dr. Micire worked for NASA Ames Research Center. Through an agreement with Carnegie Mellon University, he served as the Engineering Manager for the International Space Station (ISS) SPHERES National Laboratory and Project Lead for the Intelligent Robotics Group Human Exploration and Telerobotics SmartSPHERES program. In these capacities, he supported flight payload operations and ground testing of ISS experiments, led the manifestation of the first space-rated smartphone, and used remote sensing technologies to provide advanced applications for use by emergency responders.</p>
+
+<p>He is certified in multiple aspects of search and rescue including technical search, technical rescue, hazardous material response, and is a nationally certified fire fighter. He is active in the search and rescue community and a technical search specialist for the California Urban Search and Rescue Task Force 3. He was formerly a technical search specialist for the Massachusetts FEMA Search and Rescue Team and the Florida Regional Search and Rescue Task Force Three. Mark was a technical search robot operator during the World Trade Center Disaster and was a technical search specialist during the Hurricane Katrina response in Biloxi, Mississippi.  He serves as a subject matter expert for FEMA evaluations of robotic equipment for the U.S. Department of Homeland Security and worked extensively with robotic technologies for search-and-rescue and disaster recovery situations.</p>
+
+<p>He holds Bachelor of Science and Master of Science degrees in Computer Science from the University of South Florida and a Doctor of Philosophy degree in Computer Science from the University of Massachusetts Lowell.</p>]]>
+</description>
+<link>http://DeusExMachina.org/mmicire</link>
+</item>
+
+<item>
+<title>The Domain</title>
+<description><![CDATA[
+From <a href="http://en.wikipedia.org/wiki/Deus_Ex_Machina_(The_Matrix)#Deus_Ex_Machina">Wikipedia</a>:  "The name is Latin, and translated literally means "god out of machine". The expression refers to Ancient Greek drama, in which many times an apparently unsolvable crisis was solved by the intervention of a god (or sometimes multiple), often brought on stage by an elaborate piece of equipment (the machine). The term “deus ex machina” is still used for cases where an author uses some improbable plot device to work his way out of a difficult situation." <a href="http://en.wikipedia.org/wiki/Deus_ex_machina">-More-</a>]]>
+</description>
+<link>http://en.wikipedia.org/wiki/Deus_ex_machina</link>
+</item>
+
+<item>
+<title>Geekery </title>
+<description>For my fellow geek-peeps, you will notice that this web site is not static and is more of an aggregator for many of the social networking sites that I use.  If you click on links in the various sections, you should be able to figure out the source of the material.  Feel free to subscribe, friend, or associate appropriately from those sites directly.</description>
+<link>http://DeusExMachina.org/mmicire</link>
+</item>
+
+</channel>
+
+</rss>

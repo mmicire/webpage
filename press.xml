@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>Press</title>
+      <description>Press from projects which I have been involved.</description>
+      <link>http://DeusExMachina.org/mmicire</link>
+      <atom:link href="http://www.cs.uml.edu/%7Emmicire/press.xml" rel="self" type="application/rss+xml" />
+
+        <item>
+          <title>Make:</title>
+          <description>Why You Should Pay Attention to DARPA’s New Robotics Award</description>
+          <link>http://makezine.com/2015/11/25/pay-attention-darpas-new-robotics-award/</link>
+          <pubDate>Wed, 25 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Geek.com</title>
+          <description>DARPA wants your wacky robotics ideas</description>
+          <link>http://www.geek.com/science/darpa-wants-your-wacky-robotics-ideas-1639973/</link>
+          <pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Engadget</title>
+          <description>DARPA wants your crazy robot pitches</description>
+          <link>http://www.engadget.com/2015/11/18/darpa-robot-proposals/</link>
+          <pubDate>Wed, 18 Nov 2015 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Popular Science</title>
+          <description>What might a killerbot arms race look like?</description>
+          <link>http://www.popsci.com/what-would-killerbot-arms-race-look</link>
+          <pubDate>Thu, 28 May 2015 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Nature</title>
+          <description>Robotics: Ethics of artificial intelligence</description>
+          <link>http://www.nature.com/news/robotics-ethics-of-artificial-intelligence-1.17611</link>
+          <pubDate>Wed, 27 May 2015 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>The Armageddon Times</title>
+          <description>DARPA Working on Small Flying Insect Drones</description>
+          <link>http://thearmageddontimes.com/2015/01/22/darpa-working-on-small-flying-insect-drones/</link>
+          <pubDate>Thu, 22 Jan 2015 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>CNN</title>
+          <description>Robo-wings: Military drones that mimic hawks and insects</description>
+          <link>http://www.cnn.com/2015/01/14/tech/mci-drone-robohawk-robofly/</link>
+          <pubDate>Wed, 14 Jan 2015 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>The Washington Post</title>
+          <description>DOD wants to build drones that can buzz into bad guys’ doorways</description>
+          <link>https://www.washingtonpost.com/news/the-switch/wp/2014/12/30/dod-wants-to-build-drones-that-can-buzz-into-bad-guys-doorways/</link>
+          <pubDate>Tue, 30 Dec 2014 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>ComputerWorld</title>
+          <description>DARPA wants drone to hunt like a hawk</description>
+          <link>http://www.computerworld.com/article/2863293/darpa-wants-drone-to-hunt-like-a-hawk.html</link>
+          <pubDate>Tue, 23 Dec 2014 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>KQED National Public Radio</title>
+          <description>Are Robots Taking a Toll on Jobs?</description>
+          <link>http://www.kqed.org/a/forum/R201303271000</link>
+          <pubDate>Wed, 27 Mar 2013 00:00:00 GMT</pubDate>
+        </item>
+
+       <item>
+          <title>Business Insider SAI</title>
+          <description>This Is How NASA Prepares Smartphones For Space Travel</description>
+          <link>http://www.businessinsider.com/nasa-smartphones-in-space-2013-3</link>
+          <pubDate>Sat, 25 Mar 2013 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Ars Technica</title>
+          <description>How NASA got an Android handset ready to go into space</description>
+          <link>http://arstechnica.com/gadgets/2013/03/how-nasa-got-an-android-handset-ready-to-go-into-space/</link>
+          <pubDate>Sat, 25 Mar 2013 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Linux Weekly News (LWN.net)</title>
+          <description>ABS: Android in space</description>
+          <link>https://lwn.net/Articles/538849/</link>
+          <pubDate>Wed, 20 Feb 2013 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>ABC News</title>
+          <description>NASA to launch small experiments from Space Station</description>
+          <link>http://abclocal.go.com/kgo/story?section=news/technology&id=8588972</link>
+          <pubDate>Tue, 20 Mar 2012 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Space Ref</title>
+          <description>NASA Ames Scientists to Preview Upcoming Space Station Experiments</description>
+          <link>http://www.spaceref.com/calendar/calendar.html?pid=7319</link>
+          <pubDate>Tue, 20 Mar 2012 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>ZDNet</title>
+          <description>Android in Space! Flying robots in space .. all made possible by a Samsung Nexus S.</description>
+          <link>http://www.zdnet.com/blog/hardware/android-in-space/17704</link>
+          <pubDate>Thu, 12 Jan 2012 00:05:10 PST</pubDate>
+        </item>
+
+        <item>
+          <title>FastCompany</title>
+          <description>NASA Tests Helper Robots Inspired By Star Wars And Powered By Android</description>          
+<link>http://www.fastcodesign.com/1665800/nasa-tests-helper-robots-inspired-by-star-wars-and-powered-by-android</link>
+          <pubDate>Wed, 11 Jan 2012 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Universe Today</title>
+          <description>NASA Channels "The Force" With Smart SPHERES</description>
+          <link>http://www.universetoday.com/92381/nasa-channels-the-force-with-smart-spheres/</link>
+          <pubDate>Thu, 05 Jan 2012 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Space Travel</title>
+          <description>NASA 'Smart SPHERES' Tested on ISS</description>
+          <link>http://www.space-travel.com/reports/NASA_Smart_SPHERES_Tested_on_ISS_999.html</link>
+          <pubDate>Thu, 22 Dec 2011 00:00:00 GMT</pubDate>
+        </item>
+ 
+        <item>
+          <title>International Business Times AU</title>
+          <description>NASA's "Smart SPHERES" to Aid in the Development of Robots to Assist in Space Exploration</description>
+          <link>http://au.ibtimes.com/articles/270717/20111221/nasa-s-smart-spheres-aid-development-robots.htm</link>
+          <pubDate>Wed, 21 Dec 2011 14:13:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>NASA.gov</title>
+          <description>NASA "Smart SPHERES" Tested Successfully on International Space Station</description>
+          <link>http://www.nasa.gov/mission_pages/tdm/telerobotics/11-160.html</link>
+          <pubDate>Mon, 19 Dec 2011 00:00:00 GMT</pubDate>
+        </item>
+ 
+        <item>
+          <title>Microsoft Technet</title>
+          <description>Search and Rescue with Microsoft Surface and Robotics Developer Studio</description>
+          <link>http://blogs.technet.com/b/next/archive/2011/11/03/search-and-rescue-with-microsoft-surface-and-robotics-developer-studio.aspx</link>
+          <pubDate>Thu, 03 Nov 2011 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Phandroid</title>
+          <description>Nexus S Experiments Continue Aboard The International Space Station</description>
+          <link>http://phandroid.com/2011/11/01/nexus-s-experiments-continue-aboard-the-international-space-station/</link>
+          <pubDate>Tue, 01 Nov 2011 10:18:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Engadget</title>
+          <description>Nexus S takes to space aboard Atlantis, does astronauts' dirty work</description>
+          <link>http://www.engadget.com/2011/09/01/nexus-s-takes-to-space-aboard-atlantis-does-astronauts-dirty-w/</link>
+          <pubDate>Thu, 01 Sep 2011 15:21:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>TechCrunch</title>
+          <description>The Nexus S Powers NASAs Lightsaber Sparring Spheres, In Space</description>
+          <link>http://techcrunch.com/2011/09/01/the-nexus-s-powers-nasas-lightsaber-sparring-spheres-in-space/</link>
+          <pubDate>Thu, 01 Sep 2011 15:21:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>The Official Google Blog</title>
+          <description>Android in spaaaace! (Part 2)</description>
+          <link>http://googleblog.blogspot.com/2011/09/android-in-spaaaace-part-2.html</link>
+          <pubDate>Fri, 09 Sep 2011 10:16:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Wired.com</title>
+          <description>Android Blasts Into Space to Work With Robots</description>
+          <link>http://www.wired.com/gadgetlab/2011/09/nexus-s-space-robots-android/</link>
+          <pubDate>Thu, 01 Sep 2011 15:52:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>International Business Times</title>
+          <description>NASA Sends Android Phones Into Space to Work With Robots [VIDEO]</description>
+          <link>http://www.ibtimes.com/articles/207346/20110901/nasa-sends-android-into-space-to-work-with-robots.htm</link>
+          <pubDate>Thu, 01 Sep 2011 17:17:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Make</title>
+          <description>NASA's Smartphone-Powered SPHERES Robots</description>
+          <link>http://blog.makezine.com/archive/2011/08/nasas-smartphone-powered-spheres-robot.html</link>
+          <pubDate>Wed, 10 Aug 2011 04:00:00 GMT</pubDate>
+        </item>
+
+        
+        <item>
+          <title>NASA</title>
+          <description>The Force is Strong with NASA's Smartphone-Powered Satellite</description>
+          <link>http://www.nasa.gov/mission_pages/station/main/spheres_smartphone.html</link>
+          <pubDate>Fri, 08 Jul 2011 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Government Technology</title>
+          <description>Volleyball-Sized Robots Help ISS Workers</description>
+          <link>http://www.govtech.com/Photo-of-the-Week-Volleyball-Sized-Robots-Help-ISS-Workers-07262011.html</link>
+          <pubDate>Tue, 26 Jul 2011 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Samsung Tomorrow</title>
+          <description>Nexus S, First Smartphone Cleared for Use Outer Space</description>
+          <link>http://global.samsungtomorrow.com/?p=3254</link>
+          <pubDate>Wed, 13 Jul 2011 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>International Business Times</title>
+          <description>First NASA Smartphone Controlled Space Robots is Google's Android, Not Apple iPhone</description>
+          <link>http://sanfrancisco.ibtimes.com/articles/187218/20110726/nasa-smartphone-controlled-space-robots-google-android-apple-iphone.htm</link>
+          <pubDate>Tue, 26 Jul 2011 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Space.com</title>
+          <description>Smartphone-Controlled Robots Aid Astronauts on Space Station</description>
+          <link>http://www.space.com/12429-android-smartphones-space-robots-nasa.html</link>
+          <pubDate>Tue, 26 Jul 2011 11:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Forbes</title>
+          <description>Android Joins IPhone in Space</description>
+          <link>http://blogs.forbes.com/mobiledia/2011/07/08/android-joins-iphone-in-space/</link>
+          <pubDate>Fri, 08 Jul 2011 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Geek.com</title>
+          <description>Nexus S to serve as brain for 3 robots aboard the ISS</description>
+          <link>http://www.geek.com/articles/geek-cetera/nexus-s-to-serve-as-brain-for-3-robots-aboard-the-iss-2011078/</link>
+          <pubDate>Fri, 08 Jul 2011 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Device Magazine</title>
+          <description>Google Nexus S Smartphones Too Picked for Space Jaunt Aboard Atlantis [Video]</description>
+          <link>http://www.devicemag.com/2011/07/08/google-nexus-s-smartphones-too-picked-for-space-jaunt-aboard-atlantis-video/</link>
+          <pubDate>Fri, 08 Jul 2011 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>CNet</title>
+          <description>ISS floating orbs to get Nexus S phones</description>
+          <link>http://news.cnet.com/8301-17938_105-20077721-1/iss-floating-orbs-to-get-nexus-s-phones/</link>
+          <pubDate>Thu, 07 Jul 2011 15:21:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Slashdot</title>
+          <description>Nexus S To Serve As Brain For 3 Robots Aboard the ISS</description>
+          <link>http://hardware.slashdot.org/story/11/07/08/1914208/Nexus-S-To-Serve-As-Brain-For-3-Robots-Aboard-the-ISS</link>
+          <pubDate>Fri, 08 Jul 2011 15:08:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>MSNBC</title>
+          <description>Android phone goes into orbit</description>
+          <link>http://cosmiclog.msnbc.msn.com/_news/2011/07/11/7061728-android-phone-goes-into-orbit</link>
+          <pubDate>Mon, 11 Jul 2011 18:17:00 EDT</pubDate>
+        </item>
+
+        <item>
+          <title>physorg.com</title>
+          <description>NASA's smartphone-powered satellite</description>
+          <link>http://www.physorg.com/news/2011-07-nasa-smartphone-powered-satellite.html</link>
+          <pubDate>Mon, 11 Jul 2011 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Engadget</title>
+          <description>Microsoft Surface-controlled robots to boldly go where rescuers have gone before (video)</description>
+          <link>http://www.engadget.com/2011/08/11/microsoft-surface-controlled-robots-to-boldly-go-where-rescuers/</link>
+          <pubDate>Thu, 11 Aug 2011 18:02:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Microsoft Surface Blog</title>
+          <description>Using Microsoft Surface to control Search-and-Rescue Robots</description>
+          <link>http://blogs.msdn.com/b/surface/archive/2011/08/10/using-microsoft-surface-to-control-search-and-rescue-robots.aspx</link>
+          <pubDate>Wed, 10 Aug 2011 09:04:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Mountain Democrat</title>
+          <description>Scientists launch weather balloons here</description>
+          <link>http://www.mtdemocrat.com/media_gallery/scientists-launch-weather-balloons-here-2/</link>
+          <pubDate>Thu, 10 Feb 2011 0:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Hexus</title>
+          <description>Fingers-on with 3M's latest touch-screen tech</description>
+          <link>http://hexus.net/tech/news/displays/28401-fingers-on-3ms-latest-touch-screen-tech/</link>
+          <pubDate>Tue, 11 Jan 2011 11:30:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Toms Hardware</title>
+          <description>Microsoft Surface Used as a Big Games Controller</description>
+          <link>http://www.tomshardware.com/news/surface-portal-flight-sim-simulator,11258.html</link>
+          <pubDate>Thu, 16 Sep 2010 09:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Kotaku</title>
+          <description>Portal &amp; Microsoft Flight Sim, Purely Touchscreen Controlled With Microsoft Surface</description>
+          <link>http://kotaku.com/5633376/portal--microsoft-flight-sim-purely-touchscreen-controlled-with-microsoft-surface</link>
+          <pubDate>Wed, 08 Sep 2010 22:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Geek.com</title>
+          <description>Portal and MS Flight Sim being played on Microsoft Surface</description>
+          <link>http://www.geek.com/articles/games/portal-and-ms-flight-sim-being-played-on-microsoft-surface-2010099/</link>
+          <pubDate>Thu, 09 Sep 2010 06:01:00 GMT</pubDate>
+        </item>
+
+
+        <item>
+          <title>Microsoft Research Connections Blog</title>
+          <description>Surface + Robotics = Life-Saving Possibilities</description>
+          <link>http://blogs.msdn.com/b/msr_er/archive/2010/09/27/surface-robotics-life-saving-possibilities.aspx</link>
+          <pubDate>Mon, 27 Sep 2010 08:22:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Singularity Hub</title>
+          <description>Multitouch Control Screen Turns Swarm Robotics Into a Game of StarCraft (video)</description>
+          <link>http://singularityhub.com/2010/09/01/multitouch-control-screen-turns-swarm-robotics-into-a-game-of-starcraft-video/</link>
+          <pubDate>Wed, 01 Sep 2010 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>FayerWayer</title>
+          <description>Investigadores usan Microsoft Surface para controlar a un grupo de robots</description>
+          <link>http://www.fayerwayer.com/2010/08/investigadores-usan-microsoft-surface-para-controlar-a-un-grupo-de-robots/</link>
+          <pubDate>Sun, 29 Aug 2010 00:00:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Engadget</title>
+          <description>Multi-robot command center built around Microsoft Surface (video)</description>
+          <link>http://www.engadget.com/2010/08/28/multi-robot-command-center-built-around-microsoft-surface-video/</link>
+          <pubDate>Sat, 28 Aug 2010 05:32:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Wired</title>
+          <description>Video: Command and Control Robots with Microsoft Surface</description>
+          <link>http://www.wired.com/gadgetlab/2010/08/video-command-and-control-robots-with-microsoft-surface/</link>
+          <pubDate>Thu, 26 Aug 2010 13:13:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>developerFusion</title>
+          <description>Surface and Robotics Studio fused to create disaster recovery tool</description>
+          <link>http://www.developerfusion.com/news/85315/surface-and-robotics-studio-fused-to-create-disaster-recovery-tool/</link>
+          <pubDate>Mon, 23 Aug 2010 09:42:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>DIY Drones</title>
+          <description>Interesting presentation coming V soon, slightly off topic</description>
+          <link>http://diydrones.com/profiles/blogs/interesting-presentation</link>
+          <pubDate>Mon, 23 Aug 2010 09:42:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Popular Science</title>
+          <description>Use Microsoft Surface to Control a Swarm of Robots With Your Fingertips</description>
+          <link>http://www.popsci.com/technology/article/2010-08/new-interface-can-control-robot-swarms-touchscreen</link>
+          <pubDate>Fri, 27 Aug 2010 14:35:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Slashdot</title>
+          <description>Robot Swarm Control On Microsoft's Surface</description>
+          <link>http://tech.slashdot.org/story/10/08/26/2354240/Robot-Swarm-Control-On-Microsofts-Surface</link>
+          <pubDate>Thu, 26 Aug 2010 21:54:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Gizmodo</title>
+          <description>Use This Snazzy Multitouch Interface to Control Your Robot Army</description>
+          <link>http://gizmodo.com/5622589/use-this-snazzy-multitouch-interface-to-control-your-robot-army</link>
+          <pubDate>Thu, 26 Aug 2010 11:31:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Make</title>
+          <description>Multitouch robot swarm controller</description>
+          <link>http://blog.makezine.com/archive/2010/08/multitouch-robot-swarm-controller.html</link>
+          <pubDate>Thu, 26 Aug 2010 03:49:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Microsoft Surface Blog</title>
+          <description>Live Presentation: Robot Command and Control on Surface</description>
+          <link>http://blogs.msdn.com/b/surface/archive/2010/08/23/live-presentation-robot-command-and-control-on-surface.aspx</link>
+          <pubDate>Mon, 23 Aug 2010 09:24:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Microsoft Robotics Blog</title>
+          <description>Microsoft Surface meets Microsoft Robotics Developer Studio at U. Mass Lowell</description>
+          <link>http://blogs.msdn.com/b/msroboticsstudio/archive/2010/08/25/microsoft-surface-meets-microsoft-robotics-developer-studio-at-u-mass-lowell.aspx</link>
+          <pubDate>Sun, 29 Aug 2010 12:28:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>Kotaku</title>
+          <description>This Is The Strategy Game Of My Dreams</description>
+          <link>http://kotaku.com/5623341/how-the-strategy-games-of-the-future-should-work</link>
+          <pubDate>Fri, 27 Aug 2010 05:30:00 GMT</pubDate>
+        </item>
+        
+        <item>
+          <title>WTSP Channel 10 News</title>
+          <description>St. Pete robot goes on rescue recon</description>
+          <link>http://www.wtsp.com/news/story.aspx?storyid=19225</link>
+          <pubDate>Sat, 15 Oct 2005 00:00:00 GMT</pubDate>
+        </item>        
+
+        <item>
+          <title>SFGate</title>
+          <description>Not-so-remote control / Ever wanted to cross-breed a vacuum cleaner? Latest robots take the floor in San Jose show</description>
+          <link>http://articles.sfgate.com/2005-10-08/business/17392920_1_robots-roomba-popular-roboraptor</link>
+          <pubDate>Sat, 08 Oct 2005 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>CNN</title>
+          <description>Robots can be lifesaving rescue workers</description>
+          <link>http://edition.cnn.com/2005/TECH/09/15/katrinarobots/index.html</link>
+          <pubDate>Thu, 15 Sep 2005 21:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Saint Petersburg Times</title>
+          <description>Robot rescue: These guys go where human searchers can't</description>
+          <link>http://www.sptimes.com/2005/09/19/Technology/Robot_rescue__These_g.shtml</link>
+          <pubDate>Thu, 08 Sep 2005 12:56:19 EST</pubDate>
+        </item>
+
+        <item>
+          <title>MSNBC</title>
+          <description>High-tech goes into action in disaster zone -- Hardware and software makes life easier for rescuers and rescued</description>
+          <link>http://www.msnbc.msn.com/id/9240563/ns/technology_and_science-science/t/high-tech-goes-action-disaster-zone/</link>
+          <pubDate>Thu, 08 Sep 2005 12:56:19 EST</pubDate>
+        </item>
+        
+        <item>
+          <title>Saint Petersburg Times</title>
+          <description>Robots to the rescue</description>
+          <link>http://www.sptimes.com/2003/03/02/Floridian/Robots_to_the_rescue.shtml</link>
+          <pubDate>Sun, 02 Mar 2003 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+          <title>Linux.com</title>
+          <description>Interview: Mark Micire of the Center for Robotic Assisted Search and Rescue at the University of South Florida</description>
+          <link>http://linux.omnipotent.net/article.php?article_id=12547</link>
+          <pubDate>Mon, 15 Oct 2001 00:00:00 GMT</pubDate>
+        </item>
+
+<!--
+        <item>
+          <title></title>
+          <description></description>
+          <link></link>
+          <pubDate>Mon, 15 Oct 2001 00:00:00 GMT</pubDate>
+        </item>
+-->
+            
+   </channel>
+</rss>
