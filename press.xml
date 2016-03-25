@@ -3,8 +3,43 @@
    <channel>
       <title>Press</title>
       <description>Press from projects which I have been involved.</description>
-      <link>http://DeusExMachina.org/mmicire</link>
-      <atom:link href="http://www.cs.uml.edu/%7Emmicire/press.xml" rel="self" type="application/rss+xml" />
+      <link>https://raw.githubusercontent.com/mmicire/webpage/master/press.xml</link>
+      <atom:link href="https://raw.githubusercontent.com/mmicire/webpage/master/press.xml" rel="self" type="application/rss+xml" />
+
+        <item>
+            <title>Defense One</title>
+            <description>Here Comes the Muhammad Ali of Military Drones</description>
+            <link>http://www.thefiscaltimes.com/2016/02/17/Here-Comes-Muhammad-Ali-Military-Drones</link>
+            <pubDate>Sat, 17 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>The Washingon Post</title>
+            <description>Watch DARPA’s new turbo mini-drone fly 45 mph in warehouse testing</description>
+            <link>https://www.washingtonpost.com/news/checkpoint/wp/2016/02/13/watch-darpas-new-turbo-mini-drone-fly-45-mph-in-warehouse-testing/</link>
+            <pubDate>Sat, 13 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Popular Science</title>
+            <description>Watch Darpa's Drone Dodge Obstacles, Fly At High Speed At 45 Miles-Per-Hour</description>
+            <link>http://www.popsci.com/watch-this-darpa-quadcopter-fly-autonomously-at-45-mph</link>
+            <pubDate>Fri, 12 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Gizmodo</title>
+            <description>Holy Hell, the US Military Made the Fastest Quadcopter I've Ever Seen</description>
+            <link>http://gizmodo.com/holy-hell-the-us-military-made-the-fast-quadcopter-ive-1758807512</link>
+            <pubDate>Fri, 12 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>The Verge</title>
+            <description>Watch this DARPA drone speed around a warehouse at 45 mph</description>
+            <link>http://www.theverge.com/2016/2/12/10981740/darpa-drone-autonomous-flight-fla-program</link>
+            <pubDate>Fri, 12 Feb 2016 00:00:00 GMT</pubDate>
+        </item>
 
         <item>
           <title>Make:</title>
@@ -121,7 +156,7 @@
         <item>
           <title>FastCompany</title>
           <description>NASA Tests Helper Robots Inspired By Star Wars And Powered By Android</description>          
-<link>http://www.fastcodesign.com/1665800/nasa-tests-helper-robots-inspired-by-star-wars-and-powered-by-android</link>
+          <link>http://www.fastcodesign.com/1665800/nasa-tests-helper-robots-inspired-by-star-wars-and-powered-by-android</link>
           <pubDate>Wed, 11 Jan 2012 00:00:00 GMT</pubDate>
         </item>
 
